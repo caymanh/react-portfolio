@@ -1,7 +1,11 @@
 import React from "react";
+import Header from "../../components/Header/Header"
 
 function About() {
-  return <div className="App">This is the About Page</div>;
+  return <div>  
+  <Header />
+  This is the About Page
+  </div>;
 }
 
 export default About;
