@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "header": "Let's explore and create together.",
+    "image": "../../../image/build.svg",
+    "title": "Full Stack Web Developer",
+    "content": "My name is Cayman Heng. I am a developer with a background in Management Consulting. I help businesses develop human-centered design interfaces that are aligned with their strategy.",
+    "button": {
+      "href": "https://calendly.com/caymanh",
+      "text": "Book an Appointment"
+    },
+    "side-button": {
+      "href": "mailto:hengcayman@gmail.com",
+      "text": "Email Me"
+    }
+  },
+  {
+    "id": 2,
+    "header": "Content Management System",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "title": "Create and manage content for your users easily",
+    "content": "I have experience developing applications for companies to allow their customers to manage data at their fingertips. I have worked on a fitness tracker for users to view, create, and track their daily workouts.",
+    "button": {
+      "href": "https://pacific-stream-43723.herokuapp.com/",
+      "text": "View Project"
+    },
+    "side-button": {
+      "href": "https://github.com/caymanh/workout-tracker",
+      "text": "Github Repository"
+    }
+  },
+  {
+    "id": 3,
+    "header": "Responsive Web Design",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "title": "Optimize user experience through beauitful web interface",
+    "content": "I specialize in applying design thinking methodologies to understand user behaviour. I have created websites that offer a frictionless experience and adapt to your audience's device.",
+    "button": {
+      "href": "https://nsuroghon.github.io/5-o-Clock-Somewhere/",
+      "text": "View Project"
+    },
+    "side-button": {
+      "href": "https://github.com/nsuroghon/5-o-Clock-Somewhere",
+      "text": "Github Repository"
+    }
+  }
+]
