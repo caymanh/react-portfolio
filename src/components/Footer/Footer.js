@@ -3,11 +3,11 @@ import "./Footer.css";
 
 function Footer() {
   return (
-    <section class="white">
-      <div class="container-md my-3 my-sm-5">
-        <div class="row">
-          <div class="col-md-4 my-3 my-sm-5">
-            <div class="container-md gray py-5">
+    <section className="white">
+      <div className="container-md my-3 my-sm-5">
+        <div className="row">
+          <div className="col-md-4 my-3 my-sm-5">
+            <div className="container-md gray py-5">
               <a
                 href="https://github.com/caymanh"
                 target="_blank"
@@ -15,7 +15,7 @@ function Footer() {
               >
                 <img
                   src="../../../image/github.svg"
-                  class="img-fluid rounded mx-auto d-block"
+                  className="img-fluid rounded mx-auto d-block"
                   alt=""
                   width="50"
                   height="50"
@@ -23,8 +23,8 @@ function Footer() {
               </a>
             </div>
           </div>
-          <div class="col-md-4 my-3 my-sm-5">
-            <div class="container-md gray py-5">
+          <div className="col-md-4 my-3 my-sm-5">
+            <div className="container-md gray py-5">
               <a
                 href="https://www.linkedin.com/in/caymanheng/"
                 target="_blank"
@@ -32,7 +32,7 @@ function Footer() {
               >
                 <img
                   src="../../../image/linkedin.svg"
-                  class="img-fluid rounded mx-auto d-block"
+                  className="img-fluid rounded mx-auto d-block"
                   alt=""
                   width="50"
                   height="50"
@@ -40,12 +40,12 @@ function Footer() {
               </a>
             </div>
           </div>
-          <div class="col-md-4 my-3 my-sm-5">
-            <div class="container-md gray py-5">
+          <div className="col-md-4 my-3 my-sm-5">
+            <div className="container-md gray py-5">
               <a href="mailto:hengcayman@gmail.com">
                 <img
                   src="../../../image/email.svg"
-                  class="img-fluid rounded mx-auto d-block"
+                  className="img-fluid rounded mx-auto d-block"
                   alt=""
                   width="50"
                   height="50"
