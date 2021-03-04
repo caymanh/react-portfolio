@@ -1,12 +1,13 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function Header() {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-light">
+    <nav className="navbar navbar-expand-lg navbar-light bg-light sticky-top">
       <div className="container-fluid">
-        <a className="navbar-brand" href="/">
+        <Link className="navbar-brand" to="/">
           Cayman Heng
-        </a>
+        </Link>
         <button
         className="navbar-toggler"
           type="button"
@@ -20,12 +21,12 @@ function Header() {
         </button>
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div className="navbar-nav">
-            <a className="nav-link" href="/about">
+            <Link className="nav-link" to="/about">
               About
-            </a>
-            <a className="nav-link" href="/project">
+            </Link>
+            <Link className="nav-link" to="/project">
               Project
-            </a>
+            </Link>
           </div>
         </div>
       </div>
