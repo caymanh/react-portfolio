@@ -1,48 +1,42 @@
 import React from "react";
 import "./Section.css";
 
-function SectionLeft() {
+function SectionLeft(props) {
   return (
-    <section className="gray">
+    <section className={props.ClassName}>
     <div className="container-md">
       <div className="row">
         <div className="col-md-5 my-3 my-sm-5 ">
           <p className="sub-title fs-5 my-3 my-sm-5 text-start">
-            Let's explore and create together.
+            {props.header}
           </p>
           <p className="fs-1 fw-bold lh-sm mb-3 mb-sm-5 text-start">
-            Full Stack Web Developer
+          {props.title}
           </p>
           <p className="lh-md mb-3 mb-sm-5 text-start">
-            My name is Cayman Heng.
-            <strong
-              > I am a developer with a background in Management
-              Consulting.</strong
-            >
-            I help businesses develop human-centered design interfaces that
-            are aligned with their strategy.
+            {props.content}
           </p>
           <a
-            href="https://calendly.com/caymanh"
+            href={props.buttonHref}
             target="_blank"
             className="btn btn-color text-white fw-bold mb-3 mb-sm-5 float-start"
             rel="noreferrer"
-            >Book An Appointment</a
+            >{props.buttonText}</a
           >
           <a
-            href="mailto:hengcayman@gmail.com"
+            href={props.sideButtonHref}
             target="_blank"
             className="btn sub-title fw-bold mb-3 mb-sm-5 float-start"
             rel="noreferrer"
-            >Email Me</a
+            >{props.sideButtonText}</a
           >
         </div>
         <div className="col-md-2"></div>
         <div className="col-md-5 my-3 my-sm-5">
           <img
-            src="../../../image/build.svg"
+            src={props.image}
             className="img-fluid my-3 my-sm-5"
-            alt="Build"
+            alt=""
           />
         </div>
       </div>
