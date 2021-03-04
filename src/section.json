@@ -73,6 +73,10 @@
       "two": "I am proficient in utilizing cutting edge technologies e.g. HTML5, CSS3, Javascript, API, and MYSQL to create websites that provide an immersive user experience.",
       "three": "Book an appointment or email me at hengcayman@gmail.com today for a free consultation."
     },
+    "button": {
+      "href": "https://calendly.com/caymanh",
+      "text": "Book An Appointment"
+    },
     "sideButton": {
       "href": "https://drive.google.com/file/d/1OB-_0-u7QB6sJny5HaKxvF08qtZ3lkWT/view",
       "text": "Resume"
