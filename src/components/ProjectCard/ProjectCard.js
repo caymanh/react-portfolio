@@ -10,8 +10,11 @@ function ProjectCard(props) {
           <div className="card-body">
             <h5 className="card-title">{props.title}</h5>
             <p className="card-text">{props.description}</p>
-            <a href={props.buttonHref} class="btn btn-primary">
-              {props.buttonText}
+            <a href={props.button} class="btn btn-primary">
+              View Project
+            </a>
+            <a href={props.sideButton} class="btn btn-primary">
+              Github Repository 
             </a>
           </div>
         </div>
