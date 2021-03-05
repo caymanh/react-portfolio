@@ -2,6 +2,7 @@
   {
     "id": 1,
     "header": "Let's explore and create together.",
+    "className": "gray",
     "image": "../../../image/build.svg",
     "title": "Full Stack Web Developer",
     "content": "My name is Cayman Heng. I am a developer with a background in Management Consulting. I help businesses develop human-centered design interfaces that are aligned with their strategy.",
@@ -12,8 +13,7 @@
     "sideButton": {
       "href": "mailto:hengcayman@gmail.com",
       "text": "Email Me"
-    },
-    "className": "gray"
+    }
   },
   {
     "id": 2,
@@ -71,7 +71,7 @@
     "content": {
       "one": "As a Web Developer with a background in Management Consulting, I stand at the interesction of business and technology. I have worked with clients across retail, airlines, and financial services to shape their business strategy.",
       "two": "I am proficient in utilizing cutting edge technologies e.g. HTML5, CSS3, Javascript, API, and MYSQL to create websites that provide an immersive user experience.",
-      "three": "Book an appointment or email me at hengcayman@gmail.com today for a free consultation."
+      "three": "Contact me at (647) 873 8892 or hengcayman@gmail.com today for a free consultation."
     },
     "button": {
       "href": "https://calendly.com/caymanh",
