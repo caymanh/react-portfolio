@@ -3,7 +3,7 @@ import "./Section.css";
 
 function SectionLeft(props) {
   return (
-    <section className={props.ClassName}>
+    <section className={props.className}>
       <div className="container-md">
         <div className="row">
           <div className="col-md-5 my-3 my-sm-5 ">
