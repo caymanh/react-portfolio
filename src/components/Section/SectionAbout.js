@@ -7,7 +7,7 @@ function SectionAbout(props) {
       <div className="container-md text-white">
         <div className="row">
           <div className="col-md-5 mt-3 my-sm-5">
-            <p className="sub-title fw-bold fs-5 my-3 my-sm-5 text-start">
+            <p className="fw-bold fs-5 my-3 my-sm-5 text-start">
               {props.header}
             </p>
             <p className="fs-1 fw-bold lh-sm mb-3 mb-sm-5 text-start">
