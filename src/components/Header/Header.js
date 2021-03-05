@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 function Header() {
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-light sticky-top">
+    <nav className="navbar navbar-expand-lg navbar-light bg-white sticky-top">
       <div className="container-fluid">
         <Link className="navbar-brand" to="/">
           Cayman Heng
@@ -21,9 +21,6 @@ function Header() {
         </button>
         <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div className="navbar-nav">
-            <Link className="nav-link" to="/about">
-              About
-            </Link>
             <Link className="nav-link" to="/project">
               Project
             </Link>
