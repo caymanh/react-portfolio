@@ -18,7 +18,7 @@
   {
     "id": 2,
     "header": "Content Management System",
-    "image": "../../react-portfolio/public/image/server.svg",
+    "image": "https://github.com/caymanh/react-portfolio/blob/main/public/image/server.svg",
     "title": "Create and manage content for your users easily",
     "content": "I have experience developing applications for companies to allow their customers to manage data at their fingertips. I have worked on a fitness tracker for users to view, create, and track their daily workouts.",
     "button": {
