@@ -26,7 +26,7 @@ function ProjectCard(props) {
             Github Repository
           </a>
         </div>
-        <div class="card-footer text-muted fw-light">{props.tech}</div>
+        <div className="card-footer text-muted fw-light">{props.tech}</div>
       </div>
     </div>
   );

@@ -14,7 +14,7 @@ function Footer() {
                 rel="noreferrer"
               >
                 <img
-                  src="../../../image/github.svg"
+                  src="./image/github.svg"
                   className="img-fluid rounded mx-auto d-block"
                   alt=""
                   width="50"
@@ -31,7 +31,7 @@ function Footer() {
                 rel="noreferrer"
               >
                 <img
-                  src="../../../image/linkedin.svg"
+                  src="./image/linkedin.svg"
                   className="img-fluid rounded mx-auto d-block"
                   alt=""
                   width="50"
@@ -44,7 +44,7 @@ function Footer() {
             <div className="container-md gray py-5">
               <a href="mailto:hengcayman@gmail.com">
                 <img
-                  src="../../../image/email.svg"
+                  src="./image/email.svg"
                   className="img-fluid rounded mx-auto d-block"
                   alt=""
                   width="50"

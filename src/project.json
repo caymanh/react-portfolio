@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "../../../image/employee-directory-01.jpg",
+    "image": "./image/employee-directory-01.jpg",
     "title": "Employee Directory",
     "description": "Employee Directory is an application that allows a user to view the entire employee directory at once so that they can have quick access to employee information. Users are able to filter the employees by name using the search box and sort employees by their age by clicking on the age column. The app is built using React.",
     "button": "https://caymanh.github.io/employee-directory/",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "image": "../../../image/eat-da-burger.jpg",
+    "image": "./image/eat-da-burger.jpg",
     "title": "Eat-Da-Burger",
     "description": "Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat. Whenever a user submits a burger's name, the app will display the burger on the left side of the page. Each burger in the waiting area also has a Devour it! button. When the user clicks it, the burger will move to the right side of the page.",
     "button": "https://radiant-scrubland-70739.herokuapp.com/",
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "image": "../../../image/lets-go-travel-planner.png",
+    "image": "./image/lets-go-travel-planner.png",
     "title": "Let's Go Travel Planner",
     "description": "Let's Go Travel Planner is a travel app that helps users plan their trips. The app lets users input the name of the city that they would like to travel to. Whenever a user submits a city name, the app will display a list of recommendations for restaurants and activities to do in the city. Users will also be able to create an account and save their itinerary for easy viewing.",
     "button": "https://stormy-springs-60842.herokuapp.com/",
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "image": "../../../image/its-5-o-clock-somewhere.png",
+    "image": "./image/its-5-o-clock-somewhere.png",
     "title": "It's 5 o'Clock Somewhere",
     "description": "This application takes on its users taste preferences, and in return features some unique cocktail recipes that the user should enjoy. Although it may not be the ideal time for a cocktail in your local time zone, our app is here to remind you that it is 5 o’Clock somewhere, and encourage you to enjoy one of our unique recipes guilt free!",
     "button": "https://nsuroghon.github.io/5-o-Clock-Somewhere/",
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "image": "../../../image/workout-tracker.jpg",
+    "image": "./image/workout-tracker.jpg",
     "title": "Workout Tracker",
     "description": "Workout Tracker is a fitness app that lets users view, create and track daily workouts. Users are able to log multiple exercises in a workout on a given day. They can track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, they will be able to track the distance traveled.",
     "button": "https://pacific-stream-43723.herokuapp.com/",
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "image": "../../../image/note-taker.png",
+    "image": "./image/note-taker.png",
     "title": "Note Taker",
     "description": "Note Taker is an application that can be used to write and save notes. When the user opens the Note Taker, the user is presented with a landing page with a link to a notes page. On the notes page, the user is presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note.",
     "button": "https://personal-daily-note-taker.herokuapp.com/",

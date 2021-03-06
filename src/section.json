@@ -3,7 +3,7 @@
     "id": 1,
     "header": "Let's explore and create together.",
     "className": "gray",
-    "image": "../../../image/build.svg",
+    "image": "./image/build.svg",
     "title": "Full Stack Web Developer",
     "content": "My name is Cayman Heng. I am a developer with a background in Management Consulting. I help businesses develop human-centered design interfaces that are aligned with their strategy.",
     "button": {
@@ -18,7 +18,7 @@
   {
     "id": 2,
     "header": "Content Management System",
-    "image": "../../../image/server.svg",
+    "image": "./image/server.svg",
     "title": "Create and manage content for your users easily",
     "content": "I have experience developing applications for companies to allow their customers to manage data at their fingertips. I have worked on a fitness tracker for users to view, create, and track their daily workouts.",
     "button": {
@@ -34,7 +34,7 @@
   {
     "id": 3,
     "header": "Responsive Web Design",
-    "image": "../../../image/devices.svg",
+    "image": "./image/devices.svg",
     "title": "Optimize user experience through beauitful web interface",
     "content": "I specialize in applying design thinking methodologies to understand user behaviour. I have created websites that offer a frictionless experience and adapt to your audience's device.",
     "button": {
@@ -50,7 +50,7 @@
   {
     "id": 4,
     "header": "Customised Solution",
-    "image": "../../../image/customize.svg",
+    "image": "./image/customize.svg",
     "title": "Build applications that meet your business needs",
     "content": "Every business has different needs. I help businesses implement tailor-made solutions to resolve their problems. I have previously developed a burger restaurant app that is connected to a database where customers can input their orders.",
     "button": {
@@ -66,7 +66,7 @@
   {
     "id": 5,
     "header": "Hello, I'm Cayman",
-    "image": "../../../image/bio.JPG",
+    "image": "./image/bio.JPG",
     "title": "I help small and medium businesses go digital",
     "content": {
       "one": "As a Web Developer with a background in Management Consulting, I stand at the interesction of business and technology. I have worked with clients across retail, airlines, and financial services to shape their business strategy.",
