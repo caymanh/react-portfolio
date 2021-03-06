@@ -25,10 +25,10 @@ React Portfolio is a site that has been built for Web Developers to showcase the
  The live app can be accessed [here](https://caymanh.github.io/react-portfolio/).
 
  <p align="center">
-    <img alt="" src="../react-portfolio/public/image/react-portfolio-01.jpg">
+    <img alt="" src="./public/image/react-portfolio-01.jpg">
 </p>
  <p align="center">
-    <img alt="" src="../react-portfolio/public/image/react-portfolio-03.jpg">
+    <img alt="" src="./public/image/react-portfolio-03.jpg">
 </p>
  
 
