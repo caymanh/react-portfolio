@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "image": "./image/google-book-search-03.jpg",
+    "image": "./image/google-book-search-03.JPG",
     "title": "Google Book Search",
     "description": "Google Book Search is a React-based app that utilizes React lifecycle methods to query and display books based on user searches. The app fetches data from the Google Books API. The Save page renders all books saved to the Mongo database. The app is built using the MERN stack and utilizes the Google Books API to generate books data.",
     "button": "https://google-book-search-react-based.herokuapp.com/",
