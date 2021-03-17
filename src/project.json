@@ -46,11 +46,11 @@
   },
   {
     "id": 6,
-    "image": "./image/note-taker.png",
-    "title": "Note Taker",
-    "description": "Note Taker is an application that can be used to write and save notes. When the user opens the Note Taker, the user is presented with a landing page with a link to a notes page. On the notes page, the user is presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note.",
-    "button": "https://personal-daily-note-taker.herokuapp.com/",
-    "sideButton": "https://github.com/caymanh/note-taker",
-    "tech": "Express, uniqid"
+    "image": "./image/google-book-search-03.jpg",
+    "title": "Google Book Search",
+    "description": "Google Book Search is a React-based app that utilizes React lifecycle methods to query and display books based on user searches. The app fetches data from the Google Books API. The Save page renders all books saved to the Mongo database. The app is built using the MERN stack and utilizes the Google Books API to generate books data.",
+    "button": "https://google-book-search-react-based.herokuapp.com/save",
+    "sideButton": "https://github.com/caymanh/google-book-search",
+    "tech": "MongoDB, Express, React, Node"
   }
 ]
